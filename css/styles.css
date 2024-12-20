@@ -1,6 +1,10 @@
-a[href=https]{
+a[href="https://www.youtube.com/"] {
 color: red;
 }
-ul>p {
+a[href="https://validator.w3.org/"] {
+    color: red;
+
+}
+ul + p {
    font-size: 24px; 
 }
